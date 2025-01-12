@@ -148,14 +148,14 @@ body {
 
 p {
   font-family: "Brush Script MT", cursive;
-  margin: 20px;
+  margin: 10px 20px;
   color: #333;
 }
 
 .name {
   position: absolute;
   left: 140px;
-  bottom: 1px;
+  bottom: 5px;
   color: #333;
 }
 
